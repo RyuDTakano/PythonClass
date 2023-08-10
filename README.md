@@ -1,2 +1,2 @@
 # PythonClass
-Kmutnb Pythonc Cass
+Kmutnb Pythonc Class
